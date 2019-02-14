@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\L2_3\L2_3\bin\Debug\L2_3.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\L2_3\L2_3\bin\Debug\L2_3.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\L2_3\L2_3\bin\Debug\L2_3.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\L2_3\L2_3\obj\Debug\L2_3.csprojAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\L2_3\L2_3\obj\Debug\L2_3.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\L2_3\L2_3\obj\Debug\L2_3.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\L2_3\L2_3\obj\Debug\L2_3.pdb
